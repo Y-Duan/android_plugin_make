@@ -7,5 +7,6 @@ package com.lange.pluginlib;
 
 
 public interface IShowString {
+
     String showString(String str1,String str2);
 }
